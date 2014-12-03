@@ -10,7 +10,12 @@
     "dist/css/material.css",
     "dist/js/material.js",
     "dist/css/ripples.css",
-    "dist/js/ripples.js"
+    "dist/js/ripples.js",
+    "dist/fonts/Material-Design-Icons.woff",
+    "dist/fonts/Material-Design-Icons.eot",
+    "dist/fonts/Material-Design-Icons.ttf",
+    "dist/fonts/Material-Design-Icons.svg"
+    
   ],
   "ignore": [
     "test",
